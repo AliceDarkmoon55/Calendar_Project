@@ -1,0 +1,21 @@
+Choose_language = 'Please choose language./Пожалуйста выберите язык. (English/Русский): '
+language1 = 'English'
+language2 = 'Русский'
+langError = 'Error! There is no language in the database! Please try again./Ошибка! Языка нет в базе данных! ' \
+            'Попробуйте снова.'
+
+birthday1 = 'Enter date of birth. For example: 3.12.1992 '
+date1 = 'Enter today\'s date. For example: 20.11.2018 '
+g_calendar1 = 'According to the Gregorian calculation you are '
+e_calendar1 = 'According to the East Asian calculation you are '
+dateError1 = 'Error! There is no such date! Please try again.'
+not_born1 = 'You haven\'t born yet'
+today1 = 'You were born today'
+
+birthday2 = 'Введите дату рождения. Например: 3.12.1992 '
+date2 = 'Введите сегодняшнюю дату. Например: 20.11.2018 '
+g_calendar2 = 'По григорианскому исчислению вам '
+e_calendar2 = 'По восточноазиатскому исчислению вам '
+dateError2 = 'Ошибка! Такой даты не существует! Попробуйте снова.'
+not_born2 = 'Вы еще не родились'
+today2 = 'Вы родились сегодня'
